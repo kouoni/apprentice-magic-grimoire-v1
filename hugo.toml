@@ -4,18 +4,9 @@ title = "kitan's Apprentice Witch Grimoire"
 theme = "risotto"
 
 
-[Params]
-    mainSections = ["post"]
-    intro = true
-    headline = "Apprentice Witch Grimoire"
-    description = "A guide for new magic users"
-    github = "https://github.com/needfish"
-    twitter = "https://twitter.com/XXX"
-    email = "kitan.3p@gmail.com"
-    opengraph = true
-    shareTwitter = true
-    dateFormat = "Mon, Jan 2, 2006"
+[params]
+noindex = false
 
 [params.theme]
-    palette = "base16-atelier-estuary"
+palette = "base16-atelier-estuary"
 

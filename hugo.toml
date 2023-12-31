@@ -1,4 +1,4 @@
-baseURL = 'https://kitans-grimoire.xyz/'
+baseURL = 'https://needfish.github.io/apprentice-magic-grimoire'
 languageCode = 'en-us'
 title = "kitan's Apprentice Witch Grimoire"
 theme = "risotto"
@@ -16,5 +16,3 @@ theme = "risotto"
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
 
-[Permalinks]
-    post = "/:filename/"

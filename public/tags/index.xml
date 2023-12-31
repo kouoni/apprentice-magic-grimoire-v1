@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on kitan&#39;s Apprentice Witch Grimoire</title>
-    <link>https://kitans-grimoire.xyz/tags/</link>
+    <link>https://needfish.github.io/apprentice-magic-grimoire/tags/</link>
     <description>Recent content in Tags on kitan&#39;s Apprentice Witch Grimoire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://kitans-grimoire.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://needfish.github.io/apprentice-magic-grimoire/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

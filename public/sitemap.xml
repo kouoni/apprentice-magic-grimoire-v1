@@ -2,20 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kitans-grimoire.xyz/</loc>
+    <loc>https://needfish.github.io/apprentice-magic-grimoire/</loc>
     <lastmod>2023-12-31T12:16:56-07:00</lastmod>
   </url><url>
-    <loc>https://kitans-grimoire.xyz/posts/</loc>
+    <loc>https://needfish.github.io/apprentice-magic-grimoire/posts/</loc>
     <lastmod>2023-12-31T12:16:56-07:00</lastmod>
   </url><url>
-    <loc>https://kitans-grimoire.xyz/posts/testingnote/</loc>
+    <loc>https://needfish.github.io/apprentice-magic-grimoire/posts/testingnote/</loc>
     <lastmod>2023-12-31T12:16:56-07:00</lastmod>
   </url><url>
-    <loc>https://kitans-grimoire.xyz/welcome/</loc>
-    <lastmod>2023-12-31T00:55:28-07:00</lastmod>
+    <loc>https://needfish.github.io/apprentice-magic-grimoire/posts/welcome/</loc>
   </url><url>
-    <loc>https://kitans-grimoire.xyz/categories/</loc>
+    <loc>https://needfish.github.io/apprentice-magic-grimoire/categories/</loc>
   </url><url>
-    <loc>https://kitans-grimoire.xyz/tags/</loc>
+    <loc>https://needfish.github.io/apprentice-magic-grimoire/tags/</loc>
   </url>
 </urlset>

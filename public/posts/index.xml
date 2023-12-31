@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on kitan&#39;s Apprentice Witch Grimoire</title>
-    <link>https://example.org/posts/</link>
+    <link>https://kitans-grimoire.xyz/posts/</link>
     <description>Recent content in Posts on kitan&#39;s Apprentice Witch Grimoire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Dec 2023 00:55:28 -0700</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Dec 2023 12:16:56 -0700</lastBuildDate>
+    <atom:link href="https://kitans-grimoire.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome</title>
-      <link>https://example.org/posts/welcome/</link>
-      <pubDate>Sun, 31 Dec 2023 00:55:28 -0700</pubDate>
-      <guid>https://example.org/posts/welcome/</guid>
-      <description>I wrote this website as a personal document, mainly to keep myself in check in 2024. It will contain mostly things I learn, and some QoL life mainly.&#xA;So why the name Apprentice Witch Grimoire? I read this manga called Witch Hat Atelier some months ago and it really inspired me. Plus, a magic grimoire sounds way more fun than &amp;rsquo;life survival tips&amp;rsquo;.&#xA;The core concept is simple: I want to create magic.</description>
+      <title>Testingnote</title>
+      <link>https://kitans-grimoire.xyz/posts/testingnote/</link>
+      <pubDate>Sun, 31 Dec 2023 12:16:56 -0700</pubDate>
+      <guid>https://kitans-grimoire.xyz/posts/testingnote/</guid>
+      <description>this is a test note</description>
     </item>
   </channel>
 </rss>

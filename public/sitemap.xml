@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://kitans-grimoire.xyz/</loc>
+    <lastmod>2023-12-31T12:16:56-07:00</lastmod>
+  </url><url>
+    <loc>https://kitans-grimoire.xyz/posts/</loc>
+    <lastmod>2023-12-31T12:16:56-07:00</lastmod>
+  </url><url>
+    <loc>https://kitans-grimoire.xyz/posts/testingnote/</loc>
+    <lastmod>2023-12-31T12:16:56-07:00</lastmod>
+  </url><url>
+    <loc>https://kitans-grimoire.xyz/welcome/</loc>
     <lastmod>2023-12-31T00:55:28-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2023-12-31T00:55:28-07:00</lastmod>
+    <loc>https://kitans-grimoire.xyz/categories/</loc>
   </url><url>
-    <loc>https://example.org/posts/welcome/</loc>
-    <lastmod>2023-12-31T00:55:28-07:00</lastmod>
-  </url><url>
-    <loc>https://example.org/categories/</loc>
-  </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://kitans-grimoire.xyz/tags/</loc>
   </url>
 </urlset>

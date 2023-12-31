@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testingnote.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testingnote.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testingnote.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testingnote.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -146,6 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7477060ae9721d26",
-  "lastOpenFiles": []
+  "active": "95b08ac5bfbb4dc0",
+  "lastOpenFiles": [
+    "posts/testingnote.md",
+    "Welcome.md"
+  ]
 }

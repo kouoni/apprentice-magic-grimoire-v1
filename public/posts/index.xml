@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on kitan&#39;s Apprentice Witch Grimoire</title>
+    <title>Posts on kitan&#39;s Apprentice Witch Grimoire v1</title>
     <link>https://needfish.github.io/apprentice-magic-grimoire/posts/</link>
-    <description>Recent content in Posts on kitan&#39;s Apprentice Witch Grimoire</description>
+    <description>Recent content in Posts on kitan&#39;s Apprentice Witch Grimoire v1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Dec 2023 12:16:56 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2023 14:51:49 -0700</lastBuildDate>
     <atom:link href="https://needfish.github.io/apprentice-magic-grimoire/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Testingnote</title>
-      <link>https://needfish.github.io/apprentice-magic-grimoire/posts/testingnote/</link>
-      <pubDate>Sun, 31 Dec 2023 12:16:56 -0700</pubDate>
-      <guid>https://needfish.github.io/apprentice-magic-grimoire/posts/testingnote/</guid>
-      <description>this is a test note</description>
-    </item>
-    <item>
-      <title></title>
+      <title>welcome</title>
       <link>https://needfish.github.io/apprentice-magic-grimoire/posts/welcome/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 31 Dec 2023 14:51:49 -0700</pubDate>
       <guid>https://needfish.github.io/apprentice-magic-grimoire/posts/welcome/</guid>
-      <description>+++ title = &amp;ldquo;welcome&amp;rdquo; draft = false +++&#xA;I wrote this website as a personal document, mainly to keep myself in check in 2024. It will contain mostly things I learn, and some QoL life mainly.&#xA;So why the name Apprentice Witch Grimoire? I read this manga called Witch Hat Atelier some months ago and it really inspired me. Plus, a magic grimoire sounds way more fun than &amp;rsquo;life survival tips&amp;rsquo;.</description>
+      <description>I wrote this website as a personal document, mainly to keep myself in check in 2024. It will contain mostly things I learn, and some QoL life mainly.&#xA;So why the name Apprentice Witch Grimoire? I read this manga called Witch Hat Atelier some months ago and it really inspired me. Plus, a magic grimoire sounds way more fun than &amp;rsquo;life survival tips&amp;rsquo;.&#xA;The core concept is simple: I want to create magic.</description>
     </item>
   </channel>
 </rss>

@@ -4,9 +4,4 @@ title = "kitan's Apprentice Witch Grimoire"
 theme = "risotto"
 
 
-[params]
-noindex = false
-
-[params.theme]
-palette = "base16-atelier-estuary"
 

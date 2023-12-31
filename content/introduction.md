@@ -1,5 +1,5 @@
 +++
-title = 'About'
+title = 'welcome, aspiring witches.'
 date = 2023-12-31T14:11:42-07:00
 draft = false
 +++

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Welcome.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Welcome.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Welcome.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Welcome.md"
+                "file": "test.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "7477060ae9721d26",
   "lastOpenFiles": [
-    "test.md",
     "posts/Welcome.md",
+    "magic_notes/Welcome.md",
+    "magic_notes",
+    "introduction.md",
+    "test.md",
     "about.md",
     "_index.md",
     "posts/testingnote.md",

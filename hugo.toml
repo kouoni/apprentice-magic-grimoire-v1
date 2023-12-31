@@ -16,3 +16,6 @@ theme = "risotto"
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
 
+[params.theme]
+    palette = "base16-atelier-estuary"
+

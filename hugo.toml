@@ -41,9 +41,9 @@ url = "https://discord.gg/ydvxBzmpK9"
 [menu]
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "introduction"
+    name = "Intro"
+    url = "/introduction/"
     weight = 10
 
 [taxonomies]

@@ -14,8 +14,9 @@ In order to create magic, one must be physically and mentally ready. Here are th
 first, some thoughts about [[physical health]].
 keep your physical stats in balance, unless you need to specialize in some sport/bodybuilding.
 - Strength: weightlifting is the key here. See: [[strength training]].
-- Agility: for stamina, cardio is best, my favorite is uphill walks. another to keep while doing strength training is [[flexibility]]
-- Endurance: this covers many aspects: muscle endurance, joints and bone health.\
+- Agility: for stamina, cardio is best, my favorite is uphill walks. another to keep while doing strength training is [[flexibility]].
+- Endurance: this covers many aspects: muscle endurance, joints and bone health.
+
 i also note about [[nutrients]] here.
 
 3. Mental Preparations

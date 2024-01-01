@@ -1,0 +1,3 @@
+- by the way of evolution, we are still active and physically dynamic beings, which has come into conflict with the current era's lifestyle.
+- of course, we have some remedies to that such as the gym, but to me it feels like a band-aid to what is the current trend. it is as if making movement a part of living, we sanctioned it off to some specific hours of the day and make it a separate, distinct thing.
+- 

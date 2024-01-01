@@ -1,6 +1,6 @@
 baseURL = 'https://needfish.github.io/apprentice-magic-grimoire'
 languageCode = 'en-us'
-title = "kitan's Apprentice Witch Grimoire v1"
+title = "kitan's Apprentice Witch Grimoire"
 theme = "risotto"
 
 paginate = 3
@@ -15,7 +15,7 @@ sectionPagesMenu = "main"
 noindex = false
 
 [params.theme]
-palette = "base16-dark"
+palette = "gruvbox-light"
 
 # Sidebar: about/bio
 [params.about]

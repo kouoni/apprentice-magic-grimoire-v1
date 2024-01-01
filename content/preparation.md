@@ -10,14 +10,16 @@ In order to create magic, one must be physically and mentally ready. Here are th
 - remember : you are in control over your own time. be aware of everything to lose (nighttime activities) and to gain (exp & mana boost), and the damages of staying up late repeatedly, and make an intentional, conscious choice. that way you won't regret whatever you choose to do in the next morning.
 
 2. Physical Status
-first, some thoughts [[about physical health]].
+
+first, some thoughts about [[physical health]].
 keep your physical stats in balance, unless you need to specialize in some sport/bodybuilding.
 - Strength: weightlifting is the key here. See: [[strength training]].
-- Agility: for stamina, cardio is best, my favorite is uphill walks. another to keep while doing strength training is[[flexibility]]
-- Endurance: this covers many aspects: muscle endurance, joints and bone health
+- Agility: for stamina, cardio is best, my favorite is uphill walks. another to keep while doing strength training is [[flexibility]]
+- Endurance: this covers many aspects: muscle endurance, joints and bone health.\
 i also note about [[nutrients]] here.
 
 3. Mental Preparations
+
 (some thoughts about [[mental health]] here.)
 - keep your information sources simple and functional.
 	- what do you need in a day? mail, entertainment, some news of **things you care about** (not any random news), things you want to read, things to learn/study, etc.
@@ -29,6 +31,5 @@ i also note about [[nutrients]] here.
 - write things down.
 	- what you are reading is proof i am practicing it.
 	- ideas are fleeting, and you cannot keep any of them for more than a moment. write them all down, and know that [[there's no bad idea]].
-	- 
 
 

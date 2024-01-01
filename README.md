@@ -1,2 +1,3 @@
 # apprentice-magic-grimoire
-a personal blog, circa 2024, of a witch learning how to use magic.
+a personal book
+, circa 2024, of a witch learning how to use magic.

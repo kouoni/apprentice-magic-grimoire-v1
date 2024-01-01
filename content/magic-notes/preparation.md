@@ -1,0 +1,1 @@
+before one can do magic, one must be ready, physically and mentally.

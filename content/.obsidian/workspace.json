@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "magic-notes/preparation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "magic-notes/preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "magic-notes/preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "magic-notes/preparation.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "95b08ac5bfbb4dc0",
   "lastOpenFiles": [
-    "magic-notes/Welcome.md",
+    "introduction.md",
+    "magic-notes/preparation.md",
+    "_index.md",
+    "magic-notes/starting point.md",
     "magic-notes",
     "posts/Welcome.md",
     "posts",
-    "introduction.md",
-    "_index.md",
     "Welcome.md",
     "test.md",
     "magic_notes/Welcome.md",

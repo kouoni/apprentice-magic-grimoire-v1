@@ -1,26 +1,25 @@
 {
   "github": {
+    "user": "needfish",
+    "repo": "apprentice-magic-grimoire",
     "branch": "main",
     "automaticallyMergePR": true,
+    "tokenPath": ".obsidian/plugins/obsidian-mkdocs-publisher/env",
     "api": {
       "tiersForApi": "Github Free/Pro/Team (default)",
       "hostname": ""
     },
     "workflow": {
-      "name": "",
-      "commitMessage": "[PUBLISHER] MERGE"
+      "commitMessage": "[PUBLISHER] MERGE",
+      "name": ""
     },
-    "tokenPath": ".obsidian/plugins/obsidian-mkdocs-publisher/env",
-    "verifiedRepo": true,
-    "repo": "apprentice-magic-grimoire",
-    "user": "needfish",
     "otherRepo": [],
+    "verifiedRepo": true,
     "rateLimit": 4998
   },
   "upload": {
     "behavior": "fixed",
-    "subFolder": "",
-    "defaultName": "content/post",
+    "defaultName": "content/magic-notes",
     "rootFolder": "",
     "yamlFolderKey": "",
     "frontmatterTitle": {
@@ -28,6 +27,7 @@
       "key": "title"
     },
     "replaceTitle": [],
+    "replacePath": [],
     "autoclean": {
       "enable": false,
       "excluded": [
@@ -40,10 +40,14 @@
     },
     "folderNote": {
       "enable": true,
-      "rename": "index.md"
+      "rename": "index.md",
+      "addTitle": {
+        "enable": false,
+        "key": "title"
+      }
     },
     "metadataExtractorPath": "",
-    "replacePath": []
+    "subFolder": ""
   },
   "conversion": {
     "hardbreak": false,
@@ -68,14 +72,18 @@
     "links": {
       "internal": false,
       "unshared": false,
-      "wiki": false
+      "wiki": false,
+      "slugify": false
     }
   },
   "embed": {
     "attachments": true,
+    "overrideAttachments": [],
     "keySendFile": [],
     "notes": true,
-    "folder": "content/images"
+    "folder": "content/images",
+    "convertEmbedToLinks": "keep",
+    "charConvert": "->"
   },
   "plugin": {
     "shareKey": "share",
@@ -92,5 +100,5 @@
     "displayModalRepoEditing": false,
     "migrated": true
   },
-  "tabsID": "upload-configuration"
+  "tabsID": "github-configuration"
 }

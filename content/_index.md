@@ -1,5 +1,5 @@
 ---
-title: "Front Page"
+title: witch's frontnotes
 ---
 Welcome!
 If you are reading this, then you must have known me in some capacity.

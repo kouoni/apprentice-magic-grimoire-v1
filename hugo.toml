@@ -38,13 +38,6 @@ title = "discord"
 url = "https://discord.gg/ydvxBzmpK9"
 
 
-[menu]
-
-  [[menu.main]]
-    identifier = "introduction"
-    name = "Intro"
-    url = "/introduction/"
-    weight = 10
 
 [taxonomies]
 category = "categories"

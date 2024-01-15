@@ -6,7 +6,7 @@ Welcome!
 
 If you are reading this, then you must have met me in some way.
 
-I wrote this as a way to document what I am going to learn in 2024, as one with zero hands-on creative skills, and the internet as my only teacher.
+I wrote this as a way to document what I am going to learn in 2024, as one with very amateur hands-on creative skills, and the internet as my only teacher.
 
 It is themed as a magic book, because I read this manga called [Witch Hat Atelier](https://mangadex.org/title/67e7453b-9ee5-4ae5-9316-215b03e4a71d/witch-hat-atelier?tab=chapters) some time ago and was very inspired. Plus, "magic" sounds much more creative than simply "music" or "art". I view them as magical practice. And instead of "amateur", "apprentice witch" sounds way more fun.
 

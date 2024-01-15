@@ -1,0 +1,1 @@
+[# Neg: How I became a pro artist from a beginner over 20 years old](https://youtu.be/EAjZoW6TvW0?feature=shared)
